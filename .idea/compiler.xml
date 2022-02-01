@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Zookeeper.Topics-Boolean_and_logical_operations-Knights,_merchants,_and_robbers.main" target="11" />
+      <module name="Zookeeper.Topics-Boolean_and_logical_operations-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-Edit_it.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Boxes.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Interval.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Leap_year.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Number_dividers.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-The_max_of_two_numbers_without_else-branch.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-The_last_digit_of_a_number.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_Kotlin-Hello,_Kotlin.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_Kotlin-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_list.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_characters.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Swap.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Your_name.main" target="11" />
+      <module name="Zookeeper.Topics-Reading_data_with_a_readLine-Fix_the_input.main" target="11" />
+      <module name="Zookeeper.Topics-Reading_data_with_a_readLine-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Are_the_numbers_different.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Boys_in_the_sport_class.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Check_the_sum.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Groundhogs_at_the_party.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Inbetween.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Counting_positive_numbers.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Grades.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Maximum_element_divisible_by_4.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Print_a_string_exactly_ten_times.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Size_of_parts.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_input-Four_numbers.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_input-Printing_each_word_in_a_new_line.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_input-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Correct_the_code.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Print_a_triangle.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Print_code.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-We_need_to_learn_Kotlin.main" target="11" />
+      <module name="Zookeeper.Topics-String_basics-JSON.main" target="11" />
+      <module name="Zookeeper.Topics-String_basics-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-String_templates-Arithmetic_expression.main" target="11" />
+      <module name="Zookeeper.Topics-String_templates-Date_and_time_formatting.main" target="11" />
+      <module name="Zookeeper.Topics-String_templates-Print_two_numbers_on_the_same_line.main" target="11" />
+      <module name="Zookeeper.Topics-String_templates-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-The_classification_of_basic_types-Max_values_of_integer_types.main" target="11" />
+      <module name="Zookeeper.Topics-The_classification_of_basic_types-Size,_min_and_max.main" target="11" />
+      <module name="Zookeeper.Topics-The_classification_of_basic_types-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Cutting_the_fraction.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Lie_detector.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Sum_of_Longs.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Swap.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Theory.main" target="11" />
+      <module name="Zookeeper.util.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-classes-kotlin.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-reports-tests.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-test-results.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-tmp.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

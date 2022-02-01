@@ -1,0 +1,18 @@
+content:
+- Introduction to Kotlin
+- Overview of the basic program
+- Values and variables
+- Data types
+- Standard output
+- The classification of basic types
+- Boolean and logical operations
+- Standard input
+- Type conversion
+- String basics
+- Reading data with a readLine
+- Integers in action
+- Relational operators
+- Introduction to MutableList
+- String templates
+- If expression
+- Repeating blocks
